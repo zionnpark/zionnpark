@@ -20,7 +20,6 @@ My previous research experience includes work on digital immunoassay development
 - Chemistry informed AI for biomedical applications
 - Computational modeling of biological and chemical systems
 - Medical imaging
-- Gene therapy
 - AI Ethics
 
 ### Code Based Skills / Tools 
