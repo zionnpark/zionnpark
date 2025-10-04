@@ -14,11 +14,13 @@ My previous research experience includes work on digital immunoassay development
 
 ### Research Interests 
 - Biomaterials design
+- Nanomedicine 
 
 ### Personal Interests 
 - Chemistry informed AI for biomedical applications
 - Computational modeling of biological and chemical systems
 - Medical imaging
+- Gene therapy
 - AI Ethics
 
 ### Code Based Skills / Tools 
